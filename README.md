@@ -237,3 +237,7 @@ Description of football2 Table:
 • aerials_won: Aerials won. This column represents the total number of aerial duels won by a player.
 • aerials_lost: Aerials lost. This column represents the total number of aerial duels lost by a player.
 • aerials_won_pct: Percentage of aerials won. This column represents the percentage of aerial duels won by a player. It is calculated by dividing the number of aerial duels won by the sum of aerial duels won and aerial duels lost. To qualify as a leader, a minimum of 0.97 aerial duels per squad game is required
+
+
+Author : falguni Mehta
+this project is part of my portfolio ,showing the SQL skills essential for data analyst roles.
